@@ -70,7 +70,7 @@ An Arduino is basically a tiny computer than you can program so that it can proc
 
 ## Exercise 2 – Incorporating a Button
 
-Now that we got the LED blinking, let’s add a button as a digital input sensor to control when it turns on or off.
+Now that we have the LED blinking, let’s add a button as a digital input sensor to control when it turns on or off.
 
 * Start by hooking up the circuit using your breadboard. Insert the button across the middle bridge on the breadboard. Hook up the bottom left leg of the button to 5V on the Arduino. Hook up the top right leg of the button to digital pin 2. Add the resistor with one leg along the same path as the bottom right leg of the button, and then connect the other leg of the 10k Ohm resistor (brown-black-orange) to GND.
 
@@ -82,7 +82,7 @@ Now that we got the LED blinking, let’s add a button as a digital input sensor
 
 * Next, open your Arduino IDE and go to *File > Examples > 2. Digital > Button* and open that sketch.
 * Once the code is uploaded and your circuit is built, connect the Arduino to your computer using the USB cable and make sure the correct board and port are selected (under Tools). In the IDE window, click on the checkmark icon to compile the code and make sure there are no errors. If error messages display in the bottom of your window, let’s troubleshoot.
-* Once your code if free of errors, click on the arrow icon in the IDE window to load the code onto the Arduino. Now try to turn on the LED by pushing the button on the circuit. If it’s not working, review all your connections and we can troubleshoot together.
+* Once your code is free of errors, click on the arrow icon in the IDE window to load the code onto the Arduino. Now try to turn on the LED by pushing the button on the circuit. If it’s not working, review all your connections and we can troubleshoot together.
 
 
 ## Exercise 3 – Using a Potentiometer for Analog Input
@@ -109,9 +109,11 @@ For this sketch, we will use a different actuator—a servo motor—and control 
 * This circuit is simple and at first requires only the potentiometer, the servo motor, and some hookup wire. First, place the potentiometer into the breadboard (just like the last exercise). Connect the rightmost terminal of the potentiometer to a pin on the positive (+) strip on your breadboard, the leftmost terminal to one of the ground pins on the Arduino, and the middle terminal to analog pin 0 on the Arduino. Next, connect your potentiometer to the breadboard. (Note that the wires on your potentiometer will be either in the configuration black-red-white or brown-red-orange—these are analogous to each other.) Connect the black/brown wire to a ground pin on the Arduino, the red wire to a pin on the positive (+) strip on the breadboard, and the white/orange wire to digital pin 9 on the Arduino. Connect the positive strip on the breadboard to the 5v pin on the Arduino.
 
 ![](DHSIArduinoImages/Image6PotServoCircuit.png)
+
 *Image 5: Potentiometer-controlled Servo Circuit from Arduino.cc (<http://www.arduino.cc/en/uploads/Tutorial/knob_BB.png>)*
 
 ![](DHSIArduinoImages/Image7PotServoSchematic.png)
+
 *Image 6: Potentiometer-controlled Servo Circuit schematic from Arduino.cc (<http://www.arduino.cc/en/uploads/Tutorial/knob_schem.png>)*
 
 * Now go to your Arduino IDE. The code for this circuit can be found in the Arduino Example sketches, so go to File > Examples > Servo > Knob and open that sketch.
