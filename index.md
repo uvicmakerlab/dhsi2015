@@ -74,11 +74,14 @@ Throughout the week, we'll share our favourite physical computing and fabricatio
 
 ### Monday, June 8th (10:15-4:00)
 * **10:15-10:30**, *Introductions*: We'll take a few minutes to say hello to each other. 
+
 * **10:30-10:45**, *Theme for the Week (Jentery)*: We will briefly walk through the theme for the week, "Prototyping a Box: Material + Metaphor." Why use boxes as models for this course? What do they have to do with physical computing and fabrication? With the humanities? With critical and creative practice? 
+
 * **10:45-12:00**, *Introduction to Arduino (Nina and Shaun)*: We will begin with an introduction to Arduino, the open-source microcontroller and Integrated Design Environment (IDE). During this time, we will walk through the components of the microcontroller, learn the basics of writing sketches in the IDE, briefly introduce the difference between digital and analog sensors and actuators, and begin building simple digital and analog circuits using switches, potentiometers, and LEDs.
-  [Notes and terminology from the Arduino Intro](https://github.com/uvicmakerlab/dhsi2015/blob/master/DHSI2015ArduinoNotes.md)
+  [(**Notes and terminology from the Arduino Intro**)](https://github.com/uvicmakerlab/dhsi2015/blob/master/DHSI2015ArduinoNotes.md)
 
 * **1:30-1:45**, *Nina's Favourite Projects*: 1) [Social Wearables](http://www.limbicmedia.ca/blog/2015/01/14/social-wearables-tedx-victoria/), 2) [Sound-Reactive Drums](https://learn.adafruit.com/gemma-powered-neopixel-led-sound-reactive-drums/overview), 3) [Moshi Moshi](https://vimeo.com/98091479), 4) [Scena Ex Machina](http://monkeycinteractive.com/scena-ex-machina/), 5) [Rocktopus] (http://monkeycinteractive.com/247/), 6) [Arduino Pseudo-Theremin](https://learn.adafruit.com/adafruit-arduino-lesson-10-making-sounds/pseudo-theramin), 7) [Sunscreen Reminder Hat](https://learn.adafruit.com/sunscreen-reminder-hat/overview), 8) [Pu Gong Ying Tu](http://technolojie.com/pu-gong-ying-tu-dandelion-painting/), 9) [Robotic Solenoid Controller](https://vimeo.com/67094417), and 10) [Chameleon Scarf](https://learn.adafruit.com/chameleon-scarf)
+
 * **1:45-4:00**, *Circuit Design and Arduino Programming (Nina and Shaun)*: In the afternoon, we will expand on the basics learned in the first session by working with various analog and digital Arduino components. You will begin to think about how to apply different combinations of sensors and actuators to the box project for the week by working in groups to explore the possibilities of generating behaviours based on programming interactions between components.
 
 ### Tuesday, June 9th (9:00-4:00)
