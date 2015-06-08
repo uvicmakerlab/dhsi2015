@@ -2,7 +2,7 @@
 
 ## What is Arduino?
 
-An Arduino is basically a tiny computer that you can program so that it can process certain forms of input and output. Arduino is built to make it easy for you to play around, try things out, and reuse materials for different interactive projects. In other words, it’s made for tinkering and prototyping, but can also be used as a dedicated component in a project (hence the lowish cost). Arduino combines open-source hardware with an integrated development environment (IDE) software that uses a simplified version of the C/C++ programming languages that even non-programmers can use to write code for the Arduino board.
+An Arduino is basically a tiny computer that can be programmed to process certain forms of input and output. Arduino is built to make it easy to play around with, try things out, and utilize reused materials for different interactive projects. In other words, it’s made for tinkering and prototyping, but can also be used as a dedicated component in a project (hence the lowish cost). Arduino combines open-source hardware with an integrated development environment (IDE) software that uses a simplified version of the C/C++ programming languages that even non-programmers can use to write code for the Arduino board.
 
 
 ## Some Terminology
