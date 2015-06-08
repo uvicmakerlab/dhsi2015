@@ -77,7 +77,7 @@ Throughout the week, we'll share our favourite physical computing and fabricatio
 
 * **10:15-10:30**, *Intersecting Physical Computing and Fabrication with the Humanities (Jentery)*: What is the relevance of physical computing and fabrication to humanities research? [(**Notes from this brief overview**)](overview.md)
 
-* **10:30-10:45**, *Theme for the Week (Jentery)*: We will briefly walk through the theme for the week, "Prototyping a Box: Material + Metaphor." Why use boxes as models for this course? What do they have to do with physical computing and fabrication? With the humanities? With critical and creative practice? 
+* **10:30-10:45**, *Theme for the Week (Jentery)*: We will briefly walk through the theme for the week, "Prototyping a Box: Material + Metaphor." Why use boxes as models for this course? What do they have to do with physical computing and fabrication? With the humanities? With critical and creative practice? [(**Notes from this discussion**)](box.md)
 
 * **10:45-12:00**, *Introduction to Arduino (Nina and Shaun)*: We will begin with an introduction to Arduino, the open-source microcontroller and Integrated Design Environment (IDE). During this time, we will walk through the components of the microcontroller, learn the basics of writing sketches in the IDE, briefly introduce the difference between digital and analog sensors and actuators, and begin building simple digital and analog circuits using switches, potentiometers, and LEDs.
   [(**Notes and terminology from the Arduino Intro**)](DHSI2015ArduinoNotes.md)
