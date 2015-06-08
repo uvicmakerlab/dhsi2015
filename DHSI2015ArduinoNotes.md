@@ -2,7 +2,7 @@
 
 ## What is Arduino?
 
-An Arduino is basically a tiny computer than you can program so that it can process certain forms of input and output. Arduino is built to make it easy for you to play around, try things out, and reuse materials for different interactive projects. In other words, it’s made for tinkering and prototyping, but can also be used as a dedicated piece for a project (hence the lowish cost). Arduino combines open source hardware with an integrated development environment (IDE) software that uses a simplified version of the C/C++ programming languages so that even non-programmers can learn to write code for the Arduino board.
+An Arduino is basically a tiny computer that you can program so that it can process certain forms of input and output. Arduino is built to make it easy for you to play around, try things out, and reuse materials for different interactive projects. In other words, it’s made for tinkering and prototyping, but can also be used as a dedicated component in a project (hence the lowish cost). Arduino combines open-source hardware with an integrated development environment (IDE) software that uses a simplified version of the C/C++ programming languages that even non-programmers can use to write code for the Arduino board.
 
 
 ## Some Terminology
@@ -104,7 +104,7 @@ Next, let’s incorporate analog input. Instead of allowing for only two states 
 
 ## Exercise 4 – Using a Potentiometer to control a servo motor
 
-For this sketch, we will use a different actuator—a servo motor—and control its position using a potentiometer. As in the previous exercise, the analog input of the potentiometer will translate voltage into numbers between 0 and 1023. The sketch we use will translate the position of the potentiometer as a degree of rotation between 0 and 180. This coordinate will instruct the servo to rotate its drive shaft to that fixed position.
+For this sketch, we will use a different actuator—a servo motor—and control its position using a potentiometer. As in the previous exercise, the analog input of the potentiometer will translate voltage into numbers between 0 and 1023. The sketch we use will translate the position of the potentiometer as a degree of rotation between 0 and 179. This coordinate will instruct the servo to rotate its drive shaft to that fixed position.
 
 * This circuit is simple and at first requires only the potentiometer, the servo motor, and some hookup wire. First, place the potentiometer into the breadboard (just like the last exercise). Connect the rightmost terminal of the potentiometer to a pin on the positive (+) strip on your breadboard, the leftmost terminal to one of the ground pins on the Arduino, and the middle terminal to analog pin 0 on the Arduino. Next, connect your potentiometer to the breadboard. (Note that the wires on your potentiometer will be either in the configuration black-red-white or brown-red-orange—these are analogous to each other.) Connect the black/brown wire to a ground pin on the Arduino, the red wire to a pin on the positive (+) strip on the breadboard, and the white/orange wire to digital pin 9 on the Arduino. Connect the positive strip on the breadboard to the 5v pin on the Arduino.
 
