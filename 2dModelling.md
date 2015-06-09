@@ -6,7 +6,7 @@ Video of the laser cutting a box: <https://vimeo.com/130159461>
 
 Whether the laser cuts or engraves the material depends on the way in which the file is set up—it can run the laser using raster engraving and/or vector cutting. 
 
-* Raster engraving: Raster images are used for laser engraving (not cutting). Raster engraving creates highly detailed graphic images. The laser head moves back and forth left to right engraving a series of dots to form the image from the digital file (like an old printer). Raster engraving is used for all types of images and visuals (logos, photos, text, etc.). Basically anything that does not involve cutting.
+* Raster engraving: Raster images are used for laser engraving (not cutting). Raster engraving creates highly detailed graphic images. The laser head moves back and forth engraving a series of dots to form the image from the digital file (like an old printer). Raster engraving is used for all types of images and visuals (logos, photos, text, etc.). Basically anything that does not involve cutting.
 * Vector cutting: Vector files are basically line drawings consisting of a continuous path. They would usually be used to cut completely through the material. To vector cut, you need to make sure that lines are no bigger than 0.001 inch heaviness. All lines in a file get registered by the laser and are cut. So make sure that your file does not contain any hidden lines (covered by another shape) or any type of marking. More about raster and vector files on p. 51 in the Owner’s Manual.
 
 Files for this can basically be prepared in any program that supports these two types of graphic formats (such as Corel Draw, Adobe Illustrator/Photoshop, SketchUp, Microsoft Paint, etc.). 
