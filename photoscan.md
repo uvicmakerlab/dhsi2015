@@ -1,4 +1,4 @@
-# Introduction to Photogrammetry and Photoscan 
+# Introduction to Photogrammetry and PhotoScan 
 
 From Wikipedia: "Photogrammetry is the science of making measurements from photographs, especially for recovering the exact positions of surface points."
 
