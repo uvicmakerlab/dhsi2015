@@ -19,11 +19,11 @@ For this workshop, we'll use [Agisoft PhotoScan](http://www.agisoft.com/) to sti
 * Where possible, create 80% overlap across images. In many ways, such redundancy is conducive to making meshes.   
 * Start with a simple project, say, a batch of 25 images. Often, you don't need a lot of data to create a compelling mesh.  
 
-## Before Processing the Photos
+## Before Feeding the Images to PhotoScan
 
-* Before adding photos to Photoscan, consider batch processing them into two batches: one with zero contrast, and one with maximum contrast. Here, Camera Raw in Bridge or Photoshop is a helpful tool. 
+* Before adding photos to Photoscan, consider batch processing them into two chunks: one with zero contrast, and one with maximum contrast. Here, Camera Raw in Bridge or Photoshop is a helpful tool. 
 
-## Photoscan Workflow in Brief
+## PhotoSscan Workflow in Brief
 
 1. Add cameras
 2. Align cameras
@@ -31,7 +31,7 @@ For this workshop, we'll use [Agisoft PhotoScan](http://www.agisoft.com/) to sti
 4. Build mesh
 5. Build texture
 
-## Photoscan Workflow in Detail  
+## PhotoScan Workflow in Detail  
 
 1. Click the "add photos" button on the left (icon is a plus sign with a deck of images behind it).
 2. Select all photos you want in your batch and click open (you will then see the number of cameras, or photos, in your workspace on the left).
