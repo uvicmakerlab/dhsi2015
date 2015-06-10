@@ -15,6 +15,8 @@ This week, the challenge is to prototype a box that's meaningful as both a metap
 * Where does the box go? What is its shelf life? 
 * If you gave your box a personality, what's the best adjective to describe it? 
 
+## Balsamo's Ten Lessons
+
 As we prototype, we might find Anne Balsamo's ten lessons about technoculture innovation informative (from *Designing Culture*, pages 8-25):
 
 1. Innovations are historically constituted. 
