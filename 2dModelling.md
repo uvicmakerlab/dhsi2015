@@ -13,4 +13,13 @@ Files for this can basically be prepared in any program that supports these two 
 
 We’ll now walk you through what such files might look like in Corel Draw on a PC, Illustrator on a Mac, and also how you can translate a 3D model of a box in Rhino to flattened 2D files for laser cutting. (You can download a free trial for PC at <http://www.coreldraw.com/us/free-trials/>, a trial for Illustrator can be downloaded at <http://www.adobe.com/ca/products/illustrator.html>, and a trial for Rhino can be downloaded at <http://www.rhino3d.com/download>.)
 
+Example models and online box model makers:
+
+* http://www.instructables.com/id/128-laser-cut-boxes/?ALLSTEPS
+* https://www.epiloglaser.com/resources/sample-club/music-box-laser-cut.htm
+* http://boxmaker.connectionlab.org
+
+There are lots of other box models on Thingiverse, Instructables, and other sites. So if you want to use a different box model, try looking up models for laser cutting online.
+
+
 
