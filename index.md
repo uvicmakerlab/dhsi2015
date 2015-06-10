@@ -100,9 +100,12 @@ Throughout the week, we'll share our favourite physical computing and fabricatio
 
 ### Wednesday, June 10th (9:00-4:00)
 * **9:00-9:15**, *Jentery's Favourite Projects*: 1) [Fluxkit](https://www.youtube.com/watch?v=cPi0UyHB95U), 2) [Conversnitch](http://brianhouse.net/works/conversnitch/), 3) [The Edison Effect](http://web.stanford.edu/~demarini/Edisoneffect.mp4), 4) [The Illuminator](http://graysonearle.com/projects/illuminator/), 5) [Digital Voice Display](https://vimeo.com/82319441), 6) [Little Shadows](http://kateewatkins.tumblr.com/), 7) [Teaching with Things](https://vimeo.com/60720759), 8) ["Chorus"](https://www.youtube.com/watch?v=nHujh3yA3BE), 9) [Anderson's Tape-Bow Violin](https://www.youtube.com/watch?v=fl9UtBKEzZw), and 10) [Felted Signal Processing](https://www.flickr.com/photos/reizorlove/sets/72157604101032880/)
-* **9:15-12:00**, *CNC Manufacturing and Assembly (Jentery)*: During this session, we'll review different sorts of digital fabrication and CNC machining, including 3D printing, laser cutting, milling, and routing. We'll discuss what approaches might be best for particular situations and projects, including your box projects.
+
+* **9:15-12:00**, *Prototyping Workshop (Jentery)*: During this session, you'll start prototyping a box, with an emphasis on: 1) determining and acquiring its primary components, and 2) articulating its function, form, and metaphors.  
+
 * **1:30-3:00**, *Sketching a Project (Nina, Shaun, and Devon)*: We will identify the functional components of your box project so you can assemble the tools, information, and materials needed to begin prototyping. [Processing](http://www.processing.org) will be introduced as a platform for sketching your project. We will try out methods to sketch your box in code, from form to function.
-* **3:00-4:00**, *Project Development*: In small groups, you will begin prototyping a box, with an emphasis on: 1) determining and acquiring its primary components, and 2) articulating its function, form, and metaphors.  
+
+* **3:00-4:00**, *Project Development*: In small groups, you will continue with your prototypes. 
 
 ### Thursday, June 11th (9:00-4:00)
 * **9:00-3:00**: *Project Development*: You will continue prototyping a box in small groups, with feedback from the intstructors and others in the course. 
