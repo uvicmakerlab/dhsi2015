@@ -103,7 +103,7 @@ Throughout the week, we'll share our favourite physical computing and fabricatio
 
 * **9:15-12:00**, *Prototyping Workshop (Jentery)*: During this session, you'll start prototyping a box, with an emphasis on: 1) determining and acquiring its primary components, and 2) articulating its function, form, and metaphors. [(**Notes from this workshop**)](prototyping.md)
 
-* **1:30-3:00**, *Project Development*: You will start prototyping a box in small groups, with feedback from the instructors and others in the course. 
+* **1:30-3:00**, *Project Development*: You will continue prototyping a box in small groups, with feedback from the instructors and others in the course. 
 
 * **3:00-4:00**: *Using Git + GitHub to Share Your Prototypes (Jentery)*: During this session, you will learn the basics of Git, including how to push repositories of project files to GitHub, which allows you to share you work for others. [(**Notes from this session**)](git.md)
 
