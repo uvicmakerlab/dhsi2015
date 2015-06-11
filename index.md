@@ -103,13 +103,12 @@ Throughout the week, we'll share our favourite physical computing and fabricatio
 
 * **9:15-12:00**, *Prototyping Workshop (Jentery)*: During this session, you'll start prototyping a box, with an emphasis on: 1) determining and acquiring its primary components, and 2) articulating its function, form, and metaphors. [(**Notes from this workshop**)](prototyping.md)
 
-* **1:30-3:00**, *Sketching a Project (Nina, Shaun, and Devon)*: We will identify the functional components of your box project so you can assemble the tools, information, and materials needed to begin prototyping. [Processing](http://www.processing.org) will be introduced as a platform for sketching your project. We will try out methods to sketch your box in code, from form to function.
+* **1:30-3:00**, *Project Development*: You will start prototyping a box in small groups, with feedback from the instructors and others in the course. 
 
-* **3:00-4:00**, *Project Development*: In small groups, you will continue with your prototypes. 
+* **3:00-4:00**: *Using Git + GitHub to Share Your Prototypes (Jentery)*: During this session, you will learn the basics of Git, including how to push repositories of project files to GitHub, which allows you to share you work for others. [(**Notes from this session**)](git.md)
 
 ### Thursday, June 11th (9:00-4:00)
-* **9:00-3:00**: *Project Development*: You will continue prototyping a box in small groups, with feedback from the intstructors and others in the course. 
-* **3:00-4:00**: *Using Git + GitHub to Share Your Prototypes (Jentery)*: During this session, you will learn the basics of Git, including how to push repositories of project files to GitHub, which allows you to share you work for others. 
+* **9:00-4:00**: *Project Development*: You will continue prototyping a box in small groups, with feedback from the intstructors and others in the course. 
 
 ### Friday, June 12th (9:30-12:00)
 * **9:30-11:00**: *Finalize prototypes*: During this session, you will finalize working versions of your prototypes, with assistance from the instructors and others in the course. 
