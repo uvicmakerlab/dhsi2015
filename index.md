@@ -108,7 +108,7 @@ Throughout the week, we'll share our favourite physical computing and fabricatio
 * **3:00-4:00**: *Using Git + GitHub to Share Your Prototypes (Jentery)*: During this session, you will learn the basics of Git, including how to push repositories of project files to GitHub, which allows you to share you work for others. [(**Notes from this session**)](git.md)
 
 ### Thursday, June 11th (9:00-4:00)
-* **9:00-4:00**: *Project Development*: You will continue prototyping a box in small groups, with feedback from the intstructors and others in the course. 
+* **9:00-4:00**: *Project Development*: You will continue prototyping a box in small groups, with feedback from the intstructors and others in the course. [(**Notes from this workshop**)](suggestions.md)
 
 ### Friday, June 12th (9:30-12:00)
 * **9:30-11:00**: *Finalize prototypes*: During this session, you will finalize working versions of your prototypes, with assistance from the instructors and others in the course. 
