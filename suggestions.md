@@ -4,7 +4,7 @@ Below are some practical suggestions for prototyping projects involving physical
 
 ## Before You Start Prototyping 
 
-* Conduct an environmental scan. Is code already out there? Does a similar project already exist? Could you repurpose or edit existing models and builds? 
+* Conduct an environmental scan. Is code already out there? Does a similar project already exist? Could you repurpose or edit existing models and builds? Or can you find schematics for the parts you are planning to use?
 * Create a bill of materials that accounts for what the materials mean or connote. For instance, is plastic the best choice? 
 * In terms of vendors, we often order from http://www.digikey.com/ and https://www.adafruit.com/. 
 * Read reviews of any technologies before you purchase them. Ask others if they've used the technologies, too. Approach publications such as *Make* with some skepticism, or read against the grain of enthusiasm and hype. 
@@ -13,6 +13,7 @@ Below are some practical suggestions for prototyping projects involving physical
 
 * Consider working first with paper or modeling clay. This approach can save you both time and materials. 
 * Circulate your prototype for feedback from friends. Have them interact with what you are making and document the interactions. * Wherever possible, write about the prototyping process. Reflect on it, too. 
+* Don't hesitate to post questions or challenges you have with your code or circuit design on relevant forums online. Or read existing threads for similar projects to see if someone else has experienced the same issues as you and what their solution was.
 
 ## After You Prototype 
 
