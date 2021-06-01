@@ -1,5 +1,3 @@
-# Physical Computing + Fabrication 
-
 **Digital Humanities Summer Institute** (June 8-12, University of Victoria, http://dhsi.org/)
 
 Instructors: Nina Belojevic, Devon Elliott, Shaun Macpherson, and Jentery Sayers
